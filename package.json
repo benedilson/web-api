@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/benedilson/web-api/issues"
   },
-  "homepage": "https://github.com/benedilson/web-api#readme"
+  "homepage": "https://github.com/benedilson/web-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.3"
+  }
 }
